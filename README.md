@@ -1,0 +1,2 @@
+# inseadry
+Website for INSEADry
